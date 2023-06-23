@@ -35,22 +35,19 @@ input {
 
 button {
     padding: 8px;
-    background-color: #e6e6e6;
+    background-color: #524b4b;
     cursor: pointer;
     font-weight: bold;
     text-transform: uppercase;
+    color: #e6e6e6;
 }
 
-ul li {
+ul li  {
     text-align: center;
     background-color: #e6e6e6;
-    list-style: circle;
+    list-style: none;
 }
 
 li:hover {
     cursor: pointer;
-}
-
-.concluido {
-    text-decoration: line-through;
 }
